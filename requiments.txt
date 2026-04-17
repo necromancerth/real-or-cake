@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+sentencepiece
+pythainlp
+yake
+pandas
+numpy
+pillow
