@@ -1,5 +1,5 @@
-streamlit
-torch --index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 transformers==4.38.0
 sentencepiece
 pythainlp==5.0.0
@@ -8,3 +8,4 @@ yake
 pandas
 numpy
 pillow
+streamlit
